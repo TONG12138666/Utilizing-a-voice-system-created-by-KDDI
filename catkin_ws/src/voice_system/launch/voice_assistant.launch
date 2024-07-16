@@ -1,0 +1,5 @@
+<launch>
+	<node name="voice_assistant" pkg="voice_system" type="voice_assistant" output="screen"/>
+	<node name="xf_iat" pkg="voice_system" type="xf_iat" output="screen"/>
+</launch>
+
