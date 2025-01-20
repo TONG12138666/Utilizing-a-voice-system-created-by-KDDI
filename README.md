@@ -1,5 +1,4 @@
 # Utilizing-a-voice-system-created-by-KDDI
-Beginning work for college students.
 
 启动的程序：
 
